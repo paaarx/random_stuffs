@@ -37,3 +37,5 @@ pip install -U notebook
 pip install -U PyYAML
 pip install -U Django
 pip install -U Flask
+pip install -U google-api-python-client
+pip install -U oauth2client
